@@ -4,7 +4,7 @@
 模板地址
 https://github.com/flzCoder/vue-template
 
-#usage
+# usage
 npm install flzcli -g
 
 flzcli init <projectname>
